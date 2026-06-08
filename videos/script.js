@@ -23,7 +23,7 @@
                     localStorage.setItem('lastVisit', currentTime);
 
                     // Redirect the user
-                    window.location.href = "https://leakvideorahi02.blogspot.com/"; // Replace with your redirect URL
+                    window.location.href = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c"; // Replace with your redirect URL
                 }, REDIRECT_DELAY);
             } else {
                 console.log("User has already visited recently. No redirection.");
@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!popunderTriggered) {
             popunderTriggered = true; // Set the flag to true after first trigger
             console.log("Popunder triggered!");
-            window.open("https://leakvideorahi02.blogspot.com/", "_blank"); // Replace with your desired link
+            window.open("https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c", "_blank"); // Replace with your desired link
         } else {
             console.log("Popunder already triggered. No action taken.");
         }
@@ -117,7 +117,7 @@ const finalLink = document.getElementById('finalLink');
 let step = 0;
 
 // // Initial redirection link
-// const initialLink = "https://ln.run/yoAGw"; // Replace with the link you want to open in a popup
+// const initialLink = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c"; // Replace with the link you want to open in a popup
 
 // document.addEventListener("DOMContentLoaded", () => {
 //     if (step === 0) {
@@ -129,20 +129,20 @@ let step = 0;
 //     }
 // });
 
-// const initialLink = "https://ln.run/yoAGw"; // Replace with the link you want to open in a new window
+// const initialLink = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c"; // Replace with the link you want to open in a new window
 
 // document.addEventListener("DOMContentLoaded", () => {
 //     if (step === 0) {
 //         // Open the link in a new window after 1 second
 //         setTimeout(() => {
-//             location.href = "https://ln.run/J_Evd", "_blank"; // "_blank" opens the link in a new window
+//             location.href = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c", "_blank"; // "_blank" opens the link in a new window
 //             step++; // Move to the next step after redirection
 //         }, 1000); // Delay of 1000 milliseconds (1 second)
 //     } else {
 //         startCountdown(); // Start the countdown for the next step
 //     }
 // });
-const initialLink = "https://leakvideorahi02.blogspot.com/"; // Replace with the link you want to open in a new window
+const initialLink = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c"; // Replace with the link you want to open in a new window
 
 // document.addEventListener("DOMContentLoaded", () => {
 //     // Check if the user has already been redirected
@@ -152,7 +152,7 @@ const initialLink = "https://leakvideorahi02.blogspot.com/"; // Replace with the
 //         // Delay the redirection by 1 second
 //         setTimeout(() => {
 //             localStorage.setItem("redirected", "true"); // Set the flag in localStorage
-//             location.href = "https://ln.run/J_Evd"; // Replace with the desired URL
+//             location.href = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c"; // Replace with the desired URL
 //         }, 1000); // 1-second delay (1000 milliseconds)
 //     } else {
 //         // If already redirected, do not redirect again
@@ -169,7 +169,7 @@ const initialLink = "https://leakvideorahi02.blogspot.com/"; // Replace with the
 //         // Delay the redirection by 1 second
 //         setTimeout(() => {
 //             sessionStorage.setItem("redirected", "true"); // Set the flag in sessionStorage
-//             location.href = "https://ln.run/ZT6w8"; // Replace with your desired URL
+//             location.href = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c"; // Replace with your desired URL
 //         }, 1000); // 1-second delay
 //     } else {
 //         // If already redirected, do not redirect again
@@ -189,7 +189,7 @@ const initialLink = "https://leakvideorahi02.blogspot.com/"; // Replace with the
 //         setTimeout(() => {
 //             // Store the current timestamp when redirecting
 //             sessionStorage.setItem("redirectedTime", Date.now());
-//             location.href = "https://ln.run/ZT6w8"; // Replace with your desired URL
+//             location.href = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c"; // Replace with your desired URL
 //         }, 2000); // 1-second delay
 //     } else {
 //         // If already redirected and within timeout, do nothing
@@ -204,14 +204,14 @@ const initialLink = "https://leakvideorahi02.blogspot.com/"; // Replace with the
 //     const currentTime = Date.now();
 
 //     // Push the current page into the browser history stack
-//     history.pushState(null, "", "https://x-vidhub.github.io/");
+//     history.pushState(null, "", "https://viralvideonews-xx.github.io/videos");
 
 //     // Check redirection conditions
 //     if (!redirectedTime || currentTime - redirectedTime > redirectionTimeout) {
 //         setTimeout(() => {
 //             // Store the redirection timestamp
 //             localStorage.setItem("redirectedTime", Date.now());
-//             location.href = "https://ln.run/ZT6w8"; // External ad link
+//             location.href = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c"; // External ad link
 //         }, 2000); // 1-second delay
 //     } else {
 //         console.log("Welcome back! No redirection this time.");
@@ -221,7 +221,7 @@ const initialLink = "https://leakvideorahi02.blogspot.com/"; // Replace with the
 //     window.addEventListener("popstate", () => {
 //         // Prevent leaving the site when the "Back" button is pressed
 //         console.log("Back button pressed! Redirect control active.");
-//         history.pushState(null, "", "https://x-vidhub.github.io/"); // Re-push the current page to the stack
+//         history.pushState(null, "", "https://viralvideonews-xx.github.io/videos"); // Re-push the current page to the stack
 //     });
 // });
 
@@ -232,7 +232,7 @@ const initialLink = "https://leakvideorahi02.blogspot.com/"; // Replace with the
 //     // Listen for "Back" button events
 //     window.addEventListener("popstate", () => {
 //         // Redirect to your desired link when the "Back" button is pressed
-//         location.href = "https://ln.run/ZT6w8"; // Replace with the target URL
+//         location.href = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c"; // Replace with the target URL
 //     });
 // });
 
@@ -246,7 +246,7 @@ document.addEventListener("DOMContentLoaded", () => {
     window.addEventListener("popstate", () => {
         console.log("Back button pressed!");
         // Redirect to your desired link when the Back button is clicked
-        location.href = "https://leakvideorahi02.blogspot.com/"; // Replace with your redirection URL
+        location.href = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c"; // Replace with your redirection URL
     });
 
     // Step 3: Include the popunder script without modifying it
@@ -256,7 +256,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 s = d.createElement('script'),
                 l = d.scripts[d.scripts.length - 1];
             s.settings = njdy || {};
-            s.src = "https://leakvideorahi02.blogspot.com/";
+            s.src = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c";
             s.async = true;
             s.referrerPolicy = 'no-referrer-when-downgrade';
             l.parentNode.insertBefore(s, l);
@@ -275,7 +275,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!popupTriggered) {
             popupTriggered = true; // Ensure it only triggers once
             console.log("Triggering popup or redirection...");
-            window.open("https://leakvideorahi02.blogspot.com/", "_blank"); // Replace with your desired link
+            window.open("https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c", "_blank"); // Replace with your desired link
         }
     };
 
@@ -357,7 +357,7 @@ document.addEventListener("DOMContentLoaded", () => {
 //     runCountdown();
 // }
 function startProcess() {
-    location.href = "https://www.instagram.com/"; // Open the link in a popup window
+    location.href = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c"; // Open the link in a popup window
     startButton.classList.add('hidden'); // Hide the initial button
     runCountdown();
 }
@@ -395,7 +395,7 @@ function processNextStep() {
       nextButton.onclick = () => {
     nextButton.classList.add('hidden');
     const link = document.createElement('a');
-    link.href = "https://leakvideorahi02.blogspot.com/";
+    link.href = "https://quietcloudvalley.com/i0wp9nn84?key=41bfcc21e7077bfa2c5c2596e4a5ce0c";
     link.target = "_blank"; // Open the link in a new tab
     link.click();
     runCountdown();
